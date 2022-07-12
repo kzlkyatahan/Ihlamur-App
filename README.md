@@ -8,4 +8,3 @@ Ihlamur App Logo
 
 Ihlamur App Giriş Sayfası
 
-![Giriş Ekranı](https://user-images.githubusercontent.com/84927381/178591430-7ee34f51-460d-45a2-b633-fd6bf7a13c93.png)
