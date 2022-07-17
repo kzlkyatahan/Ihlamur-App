@@ -1,10 +1,5 @@
 # Ihlamur-App
 Ihlamur Doğal Ürünleri Mobil Uygulaması (Android & IOS)
 
-Ihlamur App Logo
-
-![Ihlamur App Logo](https://user-images.githubusercontent.com/84927381/178578360-7e7df99c-1f96-4658-b2ca-23982d227aff.png)
-
-
-Ihlamur App Giriş Sayfası
-
+Ihlamur App Genel Taslak Tasarımı
+https://www.figma.com/file/GRCWdJV93DW54Ss5Xv4tet/Ihlamur-App?node-id=0%3A1
