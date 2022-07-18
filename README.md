@@ -2,6 +2,7 @@
 Ihlamur Doğal Ürünleri Mobil Uygulaması (Android & IOS)
 
 Altyapı: AGMP (Atak Global Modular Platform)
+
 Altyapı Kodu: AGMPMAWD01
 
 Ihlamur App Genel Taslak Tasarımı
